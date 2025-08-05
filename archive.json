@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-08-03T01:46:36.931383+00:00",
+  "timestamp": "2025-08-05T01:41:48.556416+00:00",
   "repo": "furry13/draft-collink-6man-host-mhoming",
   "labels": [
     {
@@ -49,6 +49,23 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
+  "issues": [
+    {
+      "number": 1,
+      "id": "I_kwDOPRfiQc7D8N-a",
+      "title": "multiple pref64?",
+      "url": "https://github.com/furry13/draft-collink-6man-host-mhoming/issues/1",
+      "state": "OPEN",
+      "author": "furry13",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Should the host treat pref64 as RIO? Install a route?",
+      "createdAt": "2025-08-03T16:50:33Z",
+      "updatedAt": "2025-08-03T16:50:33Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
   "pulls": []
 }
